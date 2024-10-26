@@ -1,33 +1,32 @@
-# Bem vinde ao git-game!! 
+Linha de Chegada do Git Game
+==========
 
-Esse é um jogo de terminal desenvolvido para testar seu conhecimento em comandos git.
-Cada nível no jogo é uma tarefa para executar neste repositório.
-Uma vez que você fizer a tarefa você receberá a próxima.
-  Existe dez níveis no total, cada um mais difícil que o último!
+Se você não atualizou o repositório `main` do git-game, estamos desapontados com você!
+=======
 
-### Vamos começar esta jornada!!
-Clone este repositório rodando:
-
-```
-$ git clone https://github.com/hgarc014/git-game.git
-```
-
-**Não sabe muito de git??**
-
-Então você deve checar esses arquivos para ajuda (em Inglês):
-
-https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
-
-https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
-
-Caso não, você está livre para continuar...
+Entretanto, se você o fez, bom trabalho!!
+Você completou nosso Git Game!
 
 
-**Você deve sempre checar o arquivo README.md para sua próxima dica!**
+Bem, você:
 
-``Nível 1``
+- viu commits passados usando "git log"
+- mudou para commits passados
+- mudou para branches diferentes
+- usou "git blame" para ver quem fez mudanças em um arquivo
+- usou o commando de diff para ver diferenças entre branches
+- viu o que o .gitignore inclue e como funciona
+- resolveu conflitos de merge
+- viu o funcionamento de tags
+- viu problemas em nomear tags e branches com mesmo nome
+- atualizou um repositório local a partir de um remoto
 
-Sua primeira tarefa é verificar o commit que a mensagem de commit é a resposta para esta questão:
+ Sistemas de versionamento como git são ferramentas extremamente importantes para aprender e usar,
+ Especialemente quando colaborando em projetos com outros desenvolvedores.
+ Esperamos que você continue a praticar suas habilidades de git para que consiga um dia se tornar o grande
+ mestre do git!
 
-> Quando uma pessoa aprende a se comunicar com as máquinas, quais suas primeiras palavras?
-
+ Muito obrigado por jogar!
+ 
+ Essa obra foi traduzida para o Português pelos membros da Ominira-Unicamp, cheque a versão original
+ No seguinte [repositório](https://github.com/git-game/git-game)
